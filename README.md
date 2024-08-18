@@ -1,3 +1,7 @@
+> Unofficial Anytype client for Asahi Linux. Tested on M1 Max, 2021
+
+Original Anytype `README.md` follows below
+
 # Anytype
 Official Anytype client for MacOS, Linux, and Windows.
 
